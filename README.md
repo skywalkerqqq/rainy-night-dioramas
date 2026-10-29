@@ -37,6 +37,17 @@ A tight, cinematic corner: a two-storey storefront, a striped awning, a wet road
 
 > ⚠️ This scene loads Three.js through an import map, so it needs a local HTTP server — opening the file directly will fail with a CORS error.
 
+<details>
+<summary>📝 Original design brief</summary>
+
+> Build a small rainy-night convenience-store corner scene, observed in third person: it should read as a miniature 3D model you can freely drag, orbit and zoom, with no UI elements at all. The ground is a single square base and everything stands on it — tight composition, clear layering, the feel of a small, finely made, collectible model. Cel-shaded, with a strong Japanese anime atmosphere: clean materials, crisp outlines, soft colours carrying layered neon depth.
+>
+> The subject is a Japanese convenience-store corner, the store sitting at the visual centre of the base, surrounded by the usual street furniture: store signage, glazed shopfront, automatic doors, awning, entrance mat, vending machine, bicycle, umbrella stand, bin, street lamp, utility poles and wires, road sign, corner guardrail, parking bays, drain grate, wet road, reflective crosswalk, alley entrance, air-conditioning units and a small notice board. The street does not need to be large, but it needs a clear corner turn — a neighbourhood corner at night, the kind you see in Japanese animation.
+
+Every item on that list is present in the scene.
+
+</details>
+
 ### 🌆 Hoshifuri Mart
 
 <img src="hoshifuri-mart/preview.jpg" alt="Hoshifuri Mart" width="100%">
