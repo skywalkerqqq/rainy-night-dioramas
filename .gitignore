@@ -1,0 +1,19 @@
+# Local session / assistant state — never part of the project
+.workbuddy/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Node tooling (neither scene needs dependencies to run)
+node_modules/
+package-lock.json
